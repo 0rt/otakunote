@@ -1,0 +1,15 @@
+redhat cloud
+mjia126@gmail.com
+markjack
+MySQL 5.1 database added.  Please make note of these credentials:
+
+       Root User: adminbrpIYQG
+   Root Password: ihJXltgW1xaF
+   Database Name: php
+
+Connection URL: mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/
+
+You can manage your new MySQL database by also embedding phpmyadmin.
+The phpmyadmin username and password will be the same as the MySQL credentials above.
+
+ssh://541709a34382ec7a18000266@php-markjack.rhcloud.com/~/git/php.git/
